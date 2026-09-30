@@ -41,7 +41,6 @@ These snippets are meant to provide a base scaffold for your single file compone
 | `vbase`            | SFC base with SCSS                         |
 | `vbase-3`          | SFC Composition API with SCSS              |
 | `vbase-3-setup`    | SFC setup Composition API with SCSS        |
-| `vbase-3-setup`    | SFC setup Composition API with SCSS        |
 | `vbase-3-reactive` | SFC Composition API with Reactive and SCSS |
 | `vbase-css`        | SFC base with CSS                          |
 | `vbase-pcss`       | SFC base with PostCSS                      |
